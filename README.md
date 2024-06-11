@@ -1,3 +1,4 @@
+<center>
 ## Olá! Me chamo Juan Pedro!
 
 - 🌱 Atualmente aprendendo de tudo
@@ -14,3 +15,4 @@
 <img alt="html5" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img alt="css" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>
+</center>
